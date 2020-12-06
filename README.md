@@ -1,4 +1,5 @@
 # Easy-Machine-Learning
+![](https://github.com/rrishabh23/Easy-Machine-Learning/blob/master/Output.gif)
 Simple GUI based Machine Learning tool for training regression models.
 
 
